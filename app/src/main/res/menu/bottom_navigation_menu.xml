@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/botom_nav_home"
+        android:icon="@drawable/ic_baseline_movie_filter_24"
+        android:title="@string/movies_bottom_sheet" />
+    <item
+        android:id="@+id/bottom_nav_tv_shows"
+        android:icon="@drawable/baseline_tv_24"
+        android:title="@string/tv_shows_bottom_sheet" />
+    <item
+        android:id="@+id/bottom_nav_new_and_hot"
+        android:icon="@drawable/baseline_video_library_24"
+        android:title="@string/new_38_hot_bottom_sheet" />
+    <item
+        android:id="@+id/bottom_nav_fav"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="@string/my_list_bottom_sheet" />
+</menu>
