@@ -11,3 +11,21 @@ MoviesApp is an application where you can follow all popular movies and TV serie
 
 ### Personalize your experience
 ![MoviesApp-3](https://github.com/user-attachments/assets/a01f48da-3a55-49f1-8d3e-e7067548c414)
+
+## Features
+- Discover latest movies and TV shows.
+- View detailed information about the movies, including cast and crew, year, runtime.
+- Discover more of your favorite movies.
+- Search for movies using the TMDB API.
+- Save movies and TV shows using Firebase Firestore.
+- Handle user authentication with Firebase Authentication.
+
+## Technologies
+- Java
+- Retrofit
+- RxJava
+- Firebase
+- Clean Architecture
+  
+## Note
+This product uses the TMDB API but is not endorsed or certified by TMDB.
