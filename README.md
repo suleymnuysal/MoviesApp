@@ -1,5 +1,5 @@
 # MoviesApp
-MoviesApp is an application where you can follow all popular movies and TV series, watch their trailers and create your own list.
+MoviesApp is an application where you can follow all popular movies and TV series, watch their trailers and create your own watch list.
 
 ## Mobile
 
